@@ -1,18 +1,16 @@
 
-# St Kilda City Sports Club
-
-## Welcome to Peanut Farm Reserve
+# Welcome to Peanut Farm Reserve
 
 
-### Men's Football
-### Women's Football
-### Netball
+## Men's Football
+## Women's Football
+## Netball
 (Southern Football and Netball League)
 
-### Junior Football
+## Junior Football
 (South Metro Junior Football League)
 
-### Cricket
+## Cricket
 (South East Cricket Association)
 
 Players and Volunteers welcome!
@@ -26,4 +24,3 @@ History of the St Kilda City Sports Club
 History of Peanut Farm Reserve
 
 History of St Kilda
-
