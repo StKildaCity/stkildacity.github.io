@@ -19,7 +19,7 @@ Players and Volunteers welcome!
 
 https://www.stkildacity.com
 
-Directions to Peanut Farm Reserve, St Kilda 3182
+Peanut Farm Reserve is located at: <br>Corner of Chaucer Street and Blessington Street, St Kilda VIC 3182<br>[Click here for Directions - Google Maps](https://goo.gl/maps/u62XZVwkJdgv6xVT8).
 
 History of the St Kilda City Sports Club
 
