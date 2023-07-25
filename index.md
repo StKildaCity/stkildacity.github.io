@@ -1,16 +1,14 @@
 
-# Welcome to Peanut Farm Reserve
-
-
-## Men's Football
-## Women's Football
-## Netball
+## Welcome to Peanut Farm Reserve
+### Men's Football
+### Women's Football
+### Netball
 (Southern Football and Netball League)
 
-## Junior Football
+### Junior Football
 (South Metro Junior Football League)
 
-## Cricket
+### Cricket
 (South East Cricket Association)
 
 Players and Volunteers welcome!
