@@ -19,6 +19,6 @@ Peanut Farm Reserve is located at: <br>Corner of Chaucer Street and Blessington 
 
 History of the [St Kilda City Sports Club](club-history.html)
 
-History of Peanut Farm Reserve
+Why is it called [Peanut Farm](peanut-farm.html) Reserve?
 
-History of St Kilda
+About [St Kilda](about-stkilda.html)
